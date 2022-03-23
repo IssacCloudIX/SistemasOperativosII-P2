@@ -1,5 +1,6 @@
 # SistemasOperativosII-P2
-Repositorio de la práctica 2 de Sistemas Operativos. 
+Repositorio de la práctica 2 de Sistemas Operativos.
+
 **Equipo: 
 Héctor Quezada Alanís
 José Manuel Méndez Albarrán
